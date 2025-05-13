@@ -1,4 +1,3 @@
-
 let tiempoTotal = 240;  
 let tiempoRestante = tiempoTotal;  
 let ciclo = 0;  
